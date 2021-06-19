@@ -8,7 +8,9 @@ size: 36 servings
 time: 1 hour
 author: Shawn Rider
 source: 
-spicy:
+sweet: x
+sour: x
+veggie: x
 favorite: ✓
 ---
 
