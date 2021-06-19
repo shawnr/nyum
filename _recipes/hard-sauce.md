@@ -3,7 +3,7 @@ title: Hard Sauce
 original_title: Balsamic Glaze
 category: Sauces
 description: A sweet and sour balsamic glaze that is awesome on pork chops, fish, and veggies of all kinds.
-image: cheesebuldak.jpg
+image: hard-sauce.jpg
 size: 36 servings
 time: 1 hour
 author: Shawn Rider
